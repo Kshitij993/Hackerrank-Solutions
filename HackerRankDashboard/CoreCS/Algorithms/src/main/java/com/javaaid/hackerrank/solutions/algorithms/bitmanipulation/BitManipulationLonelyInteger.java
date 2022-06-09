@@ -13,6 +13,7 @@ import java.util.Scanner;
  * @author Kanahaiya Gupta
  *
  */
+//to test
 public class BitManipulationLonelyInteger {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -24,4 +25,5 @@ public class BitManipulationLonelyInteger {
 		System.out.println(res);
 		sc.close();
 	}
+	
 }
